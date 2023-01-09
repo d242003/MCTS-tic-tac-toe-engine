@@ -20,6 +20,5 @@ analyse()              -> to get engine analysis for a particular position, afte
 set playouts_primary   -> setting primary playouts (see analyse function's working) default 10 (specify after passing command) <br/>
 set playouts_secondary -> setting secondary playouts (see analyse function's working) default 10 (specify after passing command) <br/>
 terminate()            -> exit the main function <br/>
-(All header files (.h files) and cpp files have been written by the author (i.e. N-dimensions)) <br/>
 ![tic-tac-toe_output_1](https://github.com/N-dimensions/board-game-engines/blob/main/Tic-tac-toe-engine_output_1(2).PNG)
 ![tic-tac-toe_output_2](https://github.com/N-dimensions/board-game-engines/blob/main/Tic-tac-toe-engine_output_2(2).PNG)
